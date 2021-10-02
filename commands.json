@@ -1,8 +1,5 @@
 {
   "commands": [
-    {
-      "id": 1,
-      "test": "yes"
-    }
+    "clear A8"
   ]
 }

@@ -1,3 +1,8 @@
 {
-  "commands": []
+  "commands": [
+    {
+      "id": 1,
+      "test": "yes"
+    }
+  ]
 }
